@@ -2,3 +2,6 @@ prepare
 shower
 play
 fix
+clean
+throw
+meet
