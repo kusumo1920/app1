@@ -1,7 +1,4 @@
 prepare
-shower
-play
-fix
+fix it well
 clean
 throw
-meet
