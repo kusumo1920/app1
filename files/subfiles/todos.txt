@@ -3,3 +3,5 @@ stirr it well
 clean
 throw
 Play soccer
+Clean the bag
+Fix the drawer
