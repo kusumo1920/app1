@@ -5,3 +5,5 @@ throw
 Play soccer
 Clean the bag
 Fix the drawer
+Make soup
+Make pizza
