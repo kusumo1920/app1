@@ -2,10 +2,8 @@ prepare
 clean
 throw
 Play balls
-Clean the bag
 Fix the drawer
 Make soup
 Make pizza
 Master Python
-Rent movies
 Plag video games: GTA San Andreas
