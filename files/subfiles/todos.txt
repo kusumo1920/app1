@@ -1,9 +1,0 @@
-prepare
-clean
-throw
-Play balls
-Fix the drawer
-Make soup
-Make pizza
-Master Python
-Plag video games: GTA San Andreas
